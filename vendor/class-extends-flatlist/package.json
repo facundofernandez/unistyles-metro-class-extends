@@ -1,0 +1,9 @@
+{
+  "name": "class-extends-flatlist",
+  "version": "1.0.0",
+  "description": "Minimal stand-in for react-native-pdf's PdfViewFlatList: a library class that extends FlatList",
+  "main": "index.js",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
